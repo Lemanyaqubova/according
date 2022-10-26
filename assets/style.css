@@ -1,0 +1,13 @@
+ button {
+     width: 100%;
+     height: 30px;
+ }
+ 
+ button :hover {
+     background-color: rgb(61, 57, 57);
+     color: azure;
+ }
+ /* .active-tab {
+     background-color: rgb(61, 57, 57);
+     color: azure;
+ } */
